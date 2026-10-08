@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello from CI/CD!";
+echo "Hello from CI/CD - Version 2!";
